@@ -1,0 +1,27 @@
+
+.img-fit {
+    object-fit: cover;
+    width: 360px;
+    height: 260px;
+}
+
+.portfolio-item-link {
+    font-size: 1.2em;
+    color: #1073E5;
+}
+
+.portfolio-item-link:hover {
+    color: #1073E5;
+}
+
+#prof-pic {
+    border-radius: 50%;
+}
+
+.glyphicon-phone-alt {
+    padding-right: 3px;
+}
+
+.glyphicon-envelope {
+    padding-right: 3px;
+}
